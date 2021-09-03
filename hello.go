@@ -1,7 +1,5 @@
 package main
 
-import "fmt"
-
 func main() {
 	// tipe data
 	// fmt.Println("satu = ", 1)
@@ -57,8 +55,18 @@ func main() {
 	// fmt.Println(eString)
 
 	// type declaration
-	type noKTP string
+	// type noKTP string
 
-	var noKTPeko noKTP = "123214524"
-	fmt.Println(noKTPeko)
+	// var noKTPeko noKTP = "123214524"
+	// fmt.Println(noKTPeko)
+
+	//oprator logika
+	// const left = false
+	// var right = true
+
+	// var leftAndRight = left && right
+	// var leftAndRight = left != right
+	// var leftAndRight = left && right
+	// fmt.Println("left != right \t(%t) \n", leftAndRight)
+
 }
